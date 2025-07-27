@@ -44,13 +44,7 @@ cd object-detection-app
 
 ### 2. Install required libraries
 
-If you have a `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
-
-If you don't have a `requirements.txt` file, install the main libraries manually:
+install the main libraries:
 
 ```bash
 pip install streamlit opencv-python mediapipe numpy
