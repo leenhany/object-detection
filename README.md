@@ -38,8 +38,8 @@ You can try the app locally by running the code below. Here’s an example of wh
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/object-detection-app.git
-cd object-detection-app
+git clone https://github.com/leenhany/object-detection.git
+cd object-detection
 ```
 
 ### 2. Install required libraries
